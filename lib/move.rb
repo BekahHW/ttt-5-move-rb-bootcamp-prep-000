@@ -18,7 +18,7 @@ end
  board[index] = char
   end
   
-  input = input_to_index(user_input)
+  input = input_to_index()
 
   
   
