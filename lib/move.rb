@@ -18,8 +18,8 @@ end
  board[index] = char
   end
   
-  def input = input_to_index(user_input)
+  input = input_to_index(user_input)
 
-  end
+  
   
   
