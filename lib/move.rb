@@ -18,5 +18,6 @@ end
  board[index] = char
   end
   
+  input = gets.to_i
   
   
