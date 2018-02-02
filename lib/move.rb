@@ -18,5 +18,5 @@ end
  board[index] = char
   end
   
-  index=input_to_index
+  
   
