@@ -13,3 +13,5 @@ def board= [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Where would you like to go?" 
 input = gets.strip
+
+end
